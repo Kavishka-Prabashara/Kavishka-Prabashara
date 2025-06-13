@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavishka-prabashara&label=Profile%20views&color=0e75b6&style=flat" alt="kavishka-prabashara" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavishka-prabashara" alt="kavishka-prabashara" /></a> </p>
-
 - 🌱 I’m currently learning **AI/ML & Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://kavishka-prabashara.github.io/My-Portfolio/](https://kavishka-prabashara.github.io/My-Portfolio/)
