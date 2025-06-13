@@ -139,13 +139,6 @@
     <img src="https://github-contributor-stats.vercel.app/api?username=Kavishka-Prabashara&limit=5&theme=dark&combine_all_yearly_contributions=true" />
   </div>
   
-  <div align="center">
-    <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=Kavishka-Prabashara&icon=0&color=7" />
-    </a>
-  </div>
-
-
 
 ![My Image](https://drive.google.com/uc?export=view&id=1vTxRgHw1IwrfqEte6pWHPUaUiYMt6M-p)
 
