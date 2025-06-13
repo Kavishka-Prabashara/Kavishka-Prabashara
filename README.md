@@ -1,4 +1,28 @@
+<h1 align="center">Hi 👋, I'm Kavishka Prabashara Wijerathna</h1>
+<h3 align="center">A passionate Full stack developer from Sri Lanka. 🇱🇰</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kavishka-prabashara&label=Profile%20views&color=0e75b6&style=flat" alt="kavishka-prabashara" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavishka-prabashara" alt="kavishka-prabashara" /></a> </p>
+
+- 🌱 I’m currently learning **AI/ML & Machine Learning**
+
+- 👨‍💻 All of my projects are available at [https://kavishka-prabashara.github.io/My-Portfolio/](https://kavishka-prabashara.github.io/My-Portfolio/)
+
+- 📫 How to reach me **kavishkaprabashara@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavishka-prabashara&show_icons=true&locale=en&layout=compact" alt="kavishka-prabashara" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavishka-prabashara&show_icons=true&locale=en" alt="kavishka-prabashara" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavishka-prabashara&" alt="kavishka-prabashara" /></p>
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/k.a.v.i.s.h.k.a) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kavishka.prabashara.7/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kavishka_prabashara) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kavishka-prabashara-wijerathna-899588189/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kavishkaprabashara) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/kavishkaprabashara/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Kavishka-Prabhashara) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/AcanthisittaNice821/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21977020/kavishka-prabhashara) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@0azbycx0) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@aruthde7944) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kavishkaprabashara@gmail.com) 
 
