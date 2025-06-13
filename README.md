@@ -127,19 +127,24 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=Kavishka-Prabashara&theme=blue_navy&hide_border=false" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavishka-Prabashara&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</div>
 
   ### ✍️ Random Dev Quote
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  </div>
 
   ### 🔝 Top Contributed Repo
-  <img src="https://github-contributor-stats.vercel.app/api?username=Kavishka-Prabashara&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-
+  <div align="center">
+    <img src="https://github-contributor-stats.vercel.app/api?username=Kavishka-Prabashara&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  </div>
   ---
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Kavishka-Prabashara&icon=0&color=7" />
-  </a>
+  <div align="center">
+    <a href="https://visitcount.itsvg.in">
+      <img src="https://visitcount.itsvg.in/api?id=Kavishka-Prabashara&icon=0&color=7" />
+    </a>
+  </div>
 
-</div>
 
 
 ![My Image](https://drive.google.com/uc?export=view&id=1vTxRgHw1IwrfqEte6pWHPUaUiYMt6M-p)
