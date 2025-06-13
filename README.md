@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kavishka Prabashara Wijerathna</h1>
 <h3 align="center">A passionate Full stack developer from Sri Lanka. 🇱🇰</h3>
+
 ![My Image](https://drive.google.com/uc?export=view&id=1vTxRgHw1IwrfqEte6pWHPUaUiYMt6M-p)
+![My Image]([https://drive.google.com/uc?export=view&id=1vTxRgHw1IwrfqEte6pWHPUaUiYMt6M-p](https://drive.usercontent.google.com/download?id=1vTxRgHw1IwrfqEte6pWHPUaUiYMt6M-p&export=view&authuser=0))
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavishka-prabashara&label=Profile%20views&color=0e75b6&style=flat" alt="kavishka-prabashara" /> </p>
