@@ -119,18 +119,28 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kavishka-Prabashara&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Kavishka-Prabashara&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavishka-Prabashara&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div align="center">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kavishka-Prabashara&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=Kavishka-Prabashara&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Kavishka-Prabashara&theme=blue_navy&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavishka-Prabashara&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
----
-[![](https://visitcount.itsvg.in/api?id=Kavishka-Prabashara&icon=0&color=7)](https://visitcount.itsvg.in)
+  ### ✍️ Random Dev Quote
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
+  ### 🔝 Top Contributed Repo
+  <img src="https://github-contributor-stats.vercel.app/api?username=Kavishka-Prabashara&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+
+  ---
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Kavishka-Prabashara&icon=0&color=7" />
+  </a>
+
+</div>
+
 
 ![My Image](https://drive.google.com/uc?export=view&id=1vTxRgHw1IwrfqEte6pWHPUaUiYMt6M-p)
 
